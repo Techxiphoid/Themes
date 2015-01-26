@@ -1,0 +1,2 @@
+# Themes
+html,wordpress templates
